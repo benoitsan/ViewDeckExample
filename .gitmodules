@@ -1,0 +1,3 @@
+[submodule "Vendor/ViewDeck"]
+	path = Vendor/ViewDeck
+	url = https://github.com/benoitsan/ViewDeck.git
